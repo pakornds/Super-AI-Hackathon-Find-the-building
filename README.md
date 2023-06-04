@@ -1,1 +1,1 @@
-"# Super-AI-Hackathon-Find-the-building" 
+# Super-AI-Hackathon-Find-the-building
